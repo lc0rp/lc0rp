@@ -1,6 +1,6 @@
 Incessant fidgeter, tinkerer & exited fintech founder. Software engineer & product exec ... so basically the dark side, no matter how you look at it 😈
 
-## Recent tinkering
+## Recent pursuits
 
 | Repo                                                         | TL;DR                                                        |
 | --- | --- |
