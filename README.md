@@ -1,4 +1,4 @@
-Incessant fidgeter, tinkerer & exited fintech founder. Software engineer & product exec ... so basically the dark side, no matter how you look at it 😈
+Tinkerer & exited fintech founder. Coder by night & product exec by day.
 
 ## Recent pursuits
 
@@ -10,4 +10,10 @@ Incessant fidgeter, tinkerer & exited fintech founder. Software engineer & produ
 | [Birds Eye](https://github.com/lc0rp/birds-eye-) | Revive the hidden gems. Scan forgotten folders, turning them into an operational, hopefully manageable, project portfolio. |
 | [Obsidian Task Roles](https://github.com/lc0rp/obsidian-task-roles) | Assignee and RACI-style role tracking for Obsidian tasks. |
 
-[LinkedIn](https://www.linkedin.com/in/lukekyohere/) · [Medium](https://medium.com/@lukekyohere) · [X](https://x.com/lukekyohere) 
+[LinkedIn](https://www.linkedin.com/in/lukekyohere/) · [Medium (Writing)](https://medium.com/@lukekyohere) · [X](https://x.com/lukekyohere) 
+
+## Older stuff
+
+| Repo                                                         | Story                                                      |
+| --- | --- |
+| [Beyonic](https://github.com/beyonic) | Only public SDKs available here. I founded Beyonic, built its core stack and scaled it to acquisition. |
