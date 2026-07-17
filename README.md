@@ -15,8 +15,8 @@ Tinkerer & exited fintech founder. Coder by night & product exec by day.
 * Connect on [LinkedIn](https://www.linkedin.com/in/lukekyohere/) or [X](https://x.com/lukekyohere) 
 * Writings: [Medium](https://medium.com/@lukekyohere)
 
-## Older stuff
+## Older projects
 
 | Repo                                                         | Story                                                      |
 | --- | --- |
-| [Beyonic](https://github.com/beyonic) | Only public SDKs available here. I founded Beyonic, built its core stack and scaled it to acquisition. |
+| [Beyonic](https://github.com/beyonic) | Only the SDKs are public. I founded Beyonic, built its core stack and scaled it to acquisition. |
