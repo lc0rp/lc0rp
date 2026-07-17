@@ -10,7 +10,10 @@ Tinkerer & exited fintech founder. Coder by night & product exec by day.
 | [Birds Eye](https://github.com/lc0rp/birds-eye-) | Revive the hidden gems. Scan forgotten folders, turning them into an operational, hopefully manageable, project portfolio. |
 | [Obsidian Task Roles](https://github.com/lc0rp/obsidian-task-roles) | Assignee and RACI-style role tracking for Obsidian tasks. |
 
-[LinkedIn](https://www.linkedin.com/in/lukekyohere/) · [Medium (Writing)](https://medium.com/@lukekyohere) · [X](https://x.com/lukekyohere) 
+## Links
+
+* Connect on [LinkedIn](https://www.linkedin.com/in/lukekyohere/) or [X](https://x.com/lukekyohere) 
+* Writings: [Medium](https://medium.com/@lukekyohere)
 
 ## Older stuff
 
