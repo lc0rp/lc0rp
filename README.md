@@ -1,4 +1,4 @@
-Tinkerer & exited fintech founder. Coder by night & product exec by day.
+Tinkerer & exited fintech founder. Coder by night & product leader by day.
 
 ## Recent pursuits
 
